@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@bitbucket.org/nbl7/urn-core-dep-dev.git"
+		"url": "git+ssh://git@github.com/nbl7/uranio-core-dep-dev.git"
 	},
 	"keywords": [
 		"uranio",
@@ -17,12 +17,12 @@
 	],
 	"author": "Andrea Reni <mail@nbl7.net>",
 	"license": "ISC",
-	"homepage": "https://bitbucket.org/nbl7/urn-core-dep-dev#readme",
+	"homepage": "https://github.com/nbl7/uranio-core-dep-dev#readme",
 	"devDependencies": {},
 	"dependencies": {
 		"@types/bcryptjs": "^2.4.2",
 		"@types/express-fileupload": "^1.2.0",
 		"@types/jsonwebtoken": "^8.5.0",
-		"urn-dev": "git+ssh://git@bitbucket.org/nbl7/urn-dev.git"
+		"urn-dev": "git+ssh://git@github.com/nbl7/uranio-dev.git"
 	}
 }
