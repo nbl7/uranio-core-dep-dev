@@ -23,6 +23,6 @@
 		"@types/bcryptjs": "^2.4.2",
 		"@types/express-fileupload": "^1.2.0",
 		"@types/jsonwebtoken": "^8.5.0",
-		"urn-dev": "git+ssh://git@github.com/nbl7/uranio-dev.git"
+		"urn-dev": "https://github.com/nbl7/uranio-dev.git"
 	}
 }
